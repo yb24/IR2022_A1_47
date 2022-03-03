@@ -130,3 +130,8 @@ dmypy.json
 
 # Dataset
 Dataset/
+
+*.pkl
+**/*.pkl
+positional_index_pickle_file
+unigram_inverted_index_pickle_file
